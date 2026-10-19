@@ -1,4 +1,3 @@
-# csv-task-processor
 # CSV Task Processor 🐍
 
 A beginner-friendly Python project that reads tasks from a CSV file, validates their data, converts valid rows into Python objects, and exports the results to JSON.
